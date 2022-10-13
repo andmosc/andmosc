@@ -1,4 +1,11 @@
-### Hi there 👋
+### Computer science student.
+
+### Проходил обучение:
+- [Netology / Основы разработки на Java]()
+### В настоящее время прохожу обучение в [Нетология](https://netology.ru/)
+
+# Программа обучения:
+
 
 <!--
 **andmosc/andmosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
