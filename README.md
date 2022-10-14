@@ -1,6 +1,14 @@
 ### Computer science student.
 
+My skills is:
+* Java (Basics, Core, Collections, StreamAPI, Unit Tests, Networking, Reflection API, Maven, Gradle)
+* Git (GitHub)
+* IntelliJ IDEA
+
+**Please note: links updating in progress, some links may be not working.**
+
 ### Проходил обучение:
+
 - [Netology / Основы разработки на Java]()
 ### В настоящее время прохожу обучение в [Нетология](https://netology.ru/)
 
@@ -41,8 +49,35 @@
 
 > [3.4.1 Проверка доступа к ресурсу](https://replit.com/@AndMosk/Lesson13stacktrace#Main.java)  
 > [3.4.2 Валидация прочитанных событий](https://replit.com/@AndMosk/Lesson13MoveAndTheatre#Main.java)
-> 
-> 
+
+
+### Блок 4. InMemory хранение данных — коллекции
+
+4.1 Generics в коллекциях и методах (квиз)
+
+#### [4.2	Задача коллекции List](https://github.com/netology-code/java-homeworks/tree/master/list)
+
+> [4.2.1 Записная книга]()
+
+#### [4.3	Задача коллекции Queue](https://github.com/netology-code/java-homeworks/tree/master/queue)
+
+> [4.3.1 Лифт]()  
+> [4.3.1 Польская запись]()
+
+#### [4.4	Задача коллекция HashMap и HashSet](https://github.com/netology-code/java-homeworks/tree/master/hash-collections)
+
+> [4.4.1 Телефонный справочник]()  
+> [1.4.2 Список студентов]()
+
+#### [4.5	Задача коллекции Treemap и TreeSet](https://github.com/netology-code/java-homeworks/tree/master/tree-collections)
+
+> [4.5.1 Пропущенные вызовы]()  
+> [4.5.2 Система подбора кандидатов]()
+
+### Дипломная работа
+[Задача конвертер в текстовую графику](https://github.com/netology-code/java-diplom)
+
+> [Конвертер в текстовую графику]()
 
 <!--
 **andmosc/andmosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
