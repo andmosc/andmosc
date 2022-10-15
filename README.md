@@ -57,22 +57,21 @@ My skills is:
 
 #### [4.2	Задача коллекции List](https://github.com/netology-code/java-homeworks/tree/master/list)
 
-> [4.2.1 Записная книга]()
+> [4.2.1 Записная книга](https://replit.com/@AndMosk/Lesson16ArrayList#Main.javahttps://replit.com/@AndMosk/Lesson16ArrayList#Main.java)
 
 #### [4.3	Задача коллекции Queue](https://github.com/netology-code/java-homeworks/tree/master/queue)
 
-> [4.3.1 Лифт]()  
-> [4.3.1 Польская запись]()
+> [4.3.1 Лифт](https://replit.com/@AndMosk/Lesson17Queue#Main.java)  
 
 #### [4.4	Задача коллекция HashMap и HashSet](https://github.com/netology-code/java-homeworks/tree/master/hash-collections)
 
-> [4.4.1 Телефонный справочник]()  
-> [1.4.2 Список студентов]()
+> [4.4.1 Телефонный справочник](https://replit.com/@AndMosk/Lesson18HashMap#Main.java)  
+> [1.4.2 Список студентов](https://replit.com/@AndMosk/Lesson18HashSet#Main.java)
 
 #### [4.5	Задача коллекции Treemap и TreeSet](https://github.com/netology-code/java-homeworks/tree/master/tree-collections)
 
-> [4.5.1 Пропущенные вызовы]()  
-> [4.5.2 Система подбора кандидатов]()
+> [4.5.1 Пропущенные вызовы](https://replit.com/@AndMosk/Lesson19MISSEDCALL#Main.java)  
+> [4.5.2 Система подбора кандидатов](https://replit.com/@AndMosk/Lesson19CandidateSelection#Main.java)
 
 ### Дипломная работа
 [Задача конвертер в текстовую графику](https://github.com/netology-code/java-diplom)
