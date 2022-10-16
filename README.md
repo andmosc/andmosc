@@ -76,7 +76,7 @@ My skills is:
 ### Дипломная работа
 [Задача конвертер в текстовую графику](https://github.com/netology-code/java-diplom)
 
-> [Конвертер в текстовую графику]()
+> [Конвертер в текстовую графику](https://github.com/andmosc/java-diplom.git)
 
 <!--
 **andmosc/andmosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
