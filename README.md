@@ -77,7 +77,29 @@ My skills is:
 [Задача конвертер в текстовую графику](https://github.com/netology-code/java-diplom)
 
 > [Конвертер в текстовую графику]()
+> 
+## Домашние задания по курсу «Git - система контроля версий»
 
+#### [5.1  Внедрение системы контроля версий](https://github.com/netology-code/git-homeworks/tree/new-hw/introduction)
+
+> [5.1.1 Импорт существующего проекта](https://github.com/andmosc/1.2.-Site-For-Import)  
+> [5.1.2 Откат изменений](https://github.com/andmosc/task2-cancelled-commit)
+
+#### [5.2 История и работа с ветками](https://github.com/netology-code/git-homeworks/tree/new-hw/branch)
+
+> [5.2.1 Создание веток](https://github.com/andmosc/Task1-Creating-Branches)  
+> [5.2.2 Слияние изменений](https://github.com/andmosc/Task2-Merging-Changes/tree/main)  
+
+#### [5.3.Командная работа](https://github.com/netology-code/git-homeworks/tree/master/remote)
+
+> [5.3.1 Конфликт при push'е](https://github.com/andmosc/git-homeworks-neuro-fork)  
+> [5.3.2 Работа с issues](https://github.com/netology-code/git-homeworks-neuro-issues/issues/11028#issue-1298307943)  
+> [5.3.3 Работа с issues](https://github.com/netology-code/git-homeworks-neuro-issues/issues/11029#issue-1298307977)  
+> [5.3.4 Pull-Request](https://github.com/netology-code/git-homeworks-neuro-pr/pull/5555#issue-1298318531)
+
+[руководство по работе в терминале](https://github.com/netology-code/guides/blob/master/git-terminal/git-terminal.md).
+
+> [Самостоятельное задание. «Создание репозитория на Github»](https://github.com/andmosc/andmosc)
 <!--
 **andmosc/andmosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
