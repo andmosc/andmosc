@@ -53,8 +53,6 @@ My skills is:
 
 ### Блок 4. InMemory хранение данных — коллекции
 
-4.1 Generics в коллекциях и методах (квиз)
-
 #### [4.2	Задача коллекции List](https://github.com/netology-code/java-homeworks/tree/master/list)
 
 > [4.2.1 Записная книга](https://replit.com/@AndMosk/Lesson16ArrayList#Main.javahttps://replit.com/@AndMosk/Lesson16ArrayList#Main.java)
@@ -100,6 +98,31 @@ My skills is:
 [руководство по работе в терминале](https://github.com/netology-code/guides/blob/master/git-terminal/git-terminal.md).
 
 > [Самостоятельное задание. «Создание репозитория на Github»](https://github.com/andmosc/andmosc)
+
+## Алгоритмы и структуры данных
+[6.1 Введение в алгоритмическую сложность. Бинпоиск](https://github.com/netology-code/algo-homeworks/blob/master/tasks/Intro.md)
+> [6.1.1 Книжная полка](https://replit.com/@AndMosk/task1#Main.java)
+
+[6.2 Рекурсия](https://github.com/netology-code/algo-homeworks/blob/master/tasks/Dynamics.md)
+>[6.2.1 Задача о щенке](https://replit.com/@AndMosk/task2#Main.java)
+
+[6.3 Сортировки](https://github.com/netology-code/algo-homeworks/blob/master/tasks/Sorts.md)
+>[6.3.1 Сортировка слиянием](https://replit.com/@AndMosk/task3#Main.java)
+
+[6.4 Динамический массив Списки Деки](https://github.com/netology-code/algo-homeworks/blob/master/tasks/Lists.md)
+>[6.4.1 Односвязный стек](https://replit.com/@AndMosk/task4#Main.java)
+
+[6.5 Пирамиды и деревья поиска](https://github.com/netology-code/algo-homeworks/blob/master/tasks/Trees.md)
+>[6.5.1 Построение идеального биндерева поиска](https://replit.com/@AndMosk/task5#Main.java)
+
+[6.6 Таблицы](https://github.com/netology-code/algo-homeworks/blob/master/tasks/Graphs.md)
+>[6.6.1 Рабин-Карп с шаблонами, хеширование](https://replit.com/@AndMosk/task6#Main.java)
+
+[6.7 Графы](https://github.com/netology-code/algo-homeworks/blob/master/tasks/Graphs.md)
+>[6.7.1 Задача о городах](https://replit.com/@AndMosk/task71#Main.java)
+
+[6.8 Орграфы](https://github.com/netology-code/algo-homeworks/blob/master/tasks/DirGraph.md)
+>[6.8.1 Задача о вирусном меме, ориентированные графы](https://replit.com/@AndMosk/tasl7#Graph.java)
 <!--
 **andmosc/andmosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
