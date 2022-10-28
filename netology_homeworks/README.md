@@ -1,19 +1,3 @@
-### Computer science student.
-
-My skills is:
-* Java (Basics, Core, Collections, StreamAPI, Unit Tests, Networking, Reflection API, Maven, Gradle)
-* Git (GitHub)
-* IntelliJ IDEA
-
-**Please note: links updating in progress, some links may be not working.**
-
-### Проходил обучение:
-
-- [Netology / Основы разработки на Java]()
-### В настоящее время прохожу обучение в [Нетология](https://netology.ru/)
-
-# Программа обучения:
-
 ### Блок 1. Основы Java
 
 #### [1.6	Задача структура класса](https://github.com/netology-code/java-homeworks/tree/master/class-structure)
