@@ -1,4 +1,4 @@
-### Блок 1. Основы Java
+## Домашние задания по курсу "Основы Java"
 
 #### [1.6	Задача структура класса](https://github.com/netology-code/java-homeworks/tree/master/class-structure)
 
@@ -59,7 +59,8 @@
 [Задача конвертер в текстовую графику](https://github.com/netology-code/java-diplom)
 
 > [Конвертер в текстовую графику]()
-> 
+
+
 ## Домашние задания по курсу «Git - система контроля версий»
 
 #### [5.1  Внедрение системы контроля версий](https://github.com/netology-code/git-homeworks/tree/new-hw/introduction)
@@ -83,7 +84,7 @@
 
 > [Самостоятельное задание. «Создание репозитория на Github»](https://github.com/andmosc/andmosc)
 
-## Алгоритмы и структуры данных
+## Домашние задания по курсу "Алгоритмы и структуры данных"
 
 [6.1 Введение в алгоритмическую сложность. Бинпоиск](https://github.com/netology-code/algo-homeworks/blob/master/tasks/Intro.md)
 > [6.1.1 Книжная полка](https://replit.com/@AndMosk/task1#Main.java)
