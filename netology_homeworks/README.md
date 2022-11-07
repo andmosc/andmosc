@@ -143,32 +143,32 @@
  
 ### Тестирование программы
 
-8.1 [Тестирование кода и Unit-тесты]()
+8.1 [Тестирование кода и Unit-тесты](https://github.com/netology-code/jd-homeworks/tree/master/junit)
 
-> [8.1.1 Использование JUnit]()  
-> [8.1.2 JUnit + Hamcrest]()
+> [8.1.1 Использование JUnit](https://github.com/andmosc/JD24_task6_1.git)  
+> [8.1.2 JUnit + Hamcrest](https://github.com/andmosc/JD24_task6_2.git)
 
-8.2 [Mockito. Мокирование вызовов]()
+8.2 [Mockito. Мокирование вызовов](https://github.com/netology-code/jd-homeworks/tree/master/mocks)
 
-> [8.2.1 Тестирование сервиса отправки сообщений]()  
-> [8.2.2 Тестирование сервиса медицинских показаний]()
+> [8.2.1 Тестирование сервиса отправки сообщений](https://github.com/andmosc/healthcare-service.git)  
+> [8.2.2 Тестирование сервиса медицинских показаний](https://github.com/andmosc/geo-service.git)
 
 ### Работа с сетью
 
-9.1 [Основы работы с сетью. Модель OSI]()
+9.1 [Основы работы с сетью. Модель OSI](https://github.com/netology-code/jd-homeworks/tree/master/network)
 
-> [9.1.1 Клиент-серверное приложение]()  
-> [9.1.2 Клиент-сервер с рюшечками]()
+> [9.1.1 Клиент-серверное приложение](https://github.com/andmosc/task8_1.git)  
+> [9.1.2 Клиент-сервер с рюшечками](https://github.com/andmosc/task8_1.git)
 
-9.2 [Протокол HTTP. Вызовы удаленных серверов]()
+9.2 [Протокол HTTP. Вызовы удаленных серверов](https://github.com/netology-code/jd-homeworks/tree/master/http)
 
-> [9.2.1 Запрос на получение списка фактов о кошках]()  
-> [9.2.2 Чтение данных API NASA]()
+> [9.2.1 Запрос на получение списка фактов о кошках](https://github.com/andmosc/task9_1.git)  
+> [9.2.2 Чтение данных API NASA](https://github.com/andmosc/task9_2.git)
 
 ### Структура JVM
-10.1 [JVM. Организация памяти, сборщики мусора, VisualVM]()
-> [10.1.1 Понимание JVM]()  
-> [10.1.2 Исследование JVM через VisualVM]()
+10.1 [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/netology-code/jd-homeworks/tree/master/jvm)
+> [10.1.1 Понимание JVM](https://github.com/andmosc/JVM.git)  
+> [10.1.2 Исследование JVM через VisualVM](https://github.com/andmosc/JVM.git)
 
 # Домашние задания по курсу «Шаблоны проектирования»
 
