@@ -132,8 +132,8 @@
 
 7.4 [Сборка проектов. Maven и Gradle](https://github.com/netology-code/jd-homeworks/blob/master/builders/README.md)
 
-> [7.4.1 Многомодульный проект на Maven](https://github.com/andmosc/JD24_task4_2)  
-> [7.4.2 Многомодульный проект на Gradle](https://github.com/andmosc/JD24_task4_1)
+> [7.4.1 Многомодульный проект на Maven](https://github.com/andmosc/JD24_task4_1)  
+> [7.4.2 Многомодульный проект на Gradle](https://github.com/andmosc/JD24_task4_2)
 
 7.5 [Работа с файлами CSV, XML, JSON](https://github.com/netology-code/jd-homeworks/blob/master/special_files/README.md)
 
