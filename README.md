@@ -26,5 +26,5 @@ My skills is:
 - [Алгоритмы и структуры данных](./certificates_Netology/certificate-2.pdf)
 - [Java Core](./certificates_Netology/certificate-3.pdf)
 - [Шаблоны проектирования](./certificates_Netology/certificate-4.pdf)
-- [Многопоточное и функциональное программирование проектирования](./certificates_Netology/certificate-5.pdf)
+- [Многопоточное и функциональное программирование](./certificates_Netology/certificate-5.pdf)
 
