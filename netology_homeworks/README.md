@@ -150,8 +150,8 @@
 
 8.2 [Mockito. Мокирование вызовов](https://github.com/netology-code/jd-homeworks/tree/master/mocks)
 
-> [8.2.1 Тестирование сервиса отправки сообщений](https://github.com/andmosc/healthcare-service.git)  
-> [8.2.2 Тестирование сервиса медицинских показаний](https://github.com/andmosc/geo-service.git)
+> [8.2.1 Тестирование сервиса отправки сообщений](https://github.com/andmosc/geo-service.git)  
+> [8.2.2 Тестирование сервиса медицинских показаний](https://github.com/andmosc/healthcare-service.git)
 
 ### Работа с сетью
 
