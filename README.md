@@ -18,6 +18,7 @@ My skills is:
 ### Учебные проекты:
 
 - [Конвертер в текстовую графику]()
+- [Сетевой чат](https://github.com/andmosc/network_chat.git)
 
 ### Сертификаты
 
