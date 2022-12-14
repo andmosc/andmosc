@@ -173,18 +173,19 @@
 # Домашние задания по курсу «Шаблоны проектирования»
 
 11.1 [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](https://github.com/netology-code/jd-homeworks/blob/master/creational/README.md)
-11.1.1 [Builder](https://github.com/andmosc/patterns_creational_builder.git)
-11.1.2 [Singleton](https://github.com/andmosc/patterns_creational_singleton.git)
+> [11.1.1 Builder](https://github.com/andmosc/patterns_creational_builder.git)  
+> [11.1.2 Singleton](https://github.com/andmosc/patterns_creational_singleton.git)
 
 11.2 [Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight](https://github.com/netology-code/jd-homeworks/blob/master/structural/README.md)
-11.2.1 [Adapter](https://github.com/andmosc/Structural_pattern_Adapter.git)
-11.2.2 [Facade ](https://github.com/andmosc/Structural_pattern_facade.git)
+
+> [11.2.1 Adapter](https://github.com/andmosc/Structural_pattern_Adapter.git)  
+> [11.1.2 Facade](https://github.com/andmosc/Structural_pattern_facade.git)
 
 11.3 [Поведенческие шаблоны. Command, CoR, Observer, Iterator](https://github.com/netology-code/jd-homeworks/blob/master/behave/task1/README.md)
-11.3.1 [Iterator](https://github.com/andmosc/Behaviorall_pattern_Iterator.git)
+> [11.3.1 Iterator](https://github.com/andmosc/Behaviorall_pattern_Iterator.git)
 
 11.4 [Magics, DRY, SOLID](https://github.com/netology-code/jd-homeworks/blob/master/solid/task1/README.md)
-11.4.1 [SOLID](https://github.com/andmosc/Shope_principle_Solid.git)
+> [11.4.1SOLID](https://github.com/andmosc/Shope_principle_Solid.git)
 
 
 # Домашние задания по курсу «Многопоточное программирование»
