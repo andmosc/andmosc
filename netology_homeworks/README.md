@@ -192,13 +192,22 @@
 
 ### Многопоточное программирование
 
-12 [Многопоточное программирование. Работа с потоками]()
+12 [Многопоточное программирование. Работа с потоками](https://github.com/netology-code/jd-homeworks/blob/video/multithreading/README.md)
 
-13 [Работа с синхронизацией]()
+> [12.1 Интервал значений](https://github.com/andmosc/thread_range_of_values.git)  
+> [12.2 Максимальный интервал значений](https://github.com/andmosc/thread_range_of_values.git)
 
-14 [Переменные многопоточной программы]()
+13 [Работа с синхронизацией](https://github.com/netology-code/jd-homeworks/blob/video/synchronization/README.md)
 
-15 [Коллекции для параллельной работы]()
+>[13.1 Робот-доставщик](https://github.com/andmosc/thread_Ssynchronization.git)
+
+14 [Переменные многопоточной программы](https://github.com/netology-code/jd-homeworks/blob/video/volatile/README.md)
+
+>[14.1 Генерация никнеймов](https://github.com/andmosc/thread_atomic.git)
+
+15 [Коллекции для параллельной работы](https://github.com/netology-code/jd-homeworks/blob/video/concurrent_collections/README.md)
+
+>[15.1 Программа-анализатор](https://github.com/andmosc/thread_Concurrent_Collections2.git)
 
 # Домашние задания по курсу «Web, Spring & Spring MVC»
 
