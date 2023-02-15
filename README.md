@@ -29,3 +29,4 @@ My skills is:
 - [Шаблоны проектирования](./certificates_Netology/certificate-4.pdf)
 - [Многопоточное и функциональное программирование](./certificates_Netology/certificate-5.pdf)
 - [Web, Spring & Spring MVC](./certificates_Netology/certificate-6.pdf)
+- [Spring Boot, deployment и инфраструктура](./certificates_Netology/certificate-7.pdf)
