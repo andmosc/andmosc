@@ -1,9 +1,13 @@
 ### Computer science student.
 
 My skills is:
-* Java (Basics, Core, Collections, StreamAPI, Unit Tests, Networking, Reflection API, Maven, Gradle)
-* Git (GitHub)
-* IntelliJ IDEA
+* ООП, UML , XML, JSON, паттерны проектирования;
+* Java Core;
+* Hibernate, MySQL, PostgreSQL, Liquibase ;
+* базовые знания HTML, CSS, JavaScript;
+* Maven, Gradle, Apache Tomcat, nginx, Git, docker;
+* JUnit, Hamcrest, Mockito;
+* Spring (MVC, Boot).
 
 **Please note: links updating in progress, some links may be not working.**
 
@@ -19,6 +23,7 @@ My skills is:
 
 - [Конвертер в текстовую графику]()
 - [Сетевой чат](https://github.com/andmosc/network_chat.git)
+- [Сервис перевода денег](https://github.com/andmosc/TransferMoneyServices)
 
 ### Сертификаты
 
@@ -30,3 +35,4 @@ My skills is:
 - [Многопоточное и функциональное программирование](./certificates_Netology/certificate-5.pdf)
 - [Web, Spring & Spring MVC](./certificates_Netology/certificate-6.pdf)
 - [Spring Boot, deployment и инфраструктура](./certificates_Netology/certificate-7.pdf)
+- [Хранение данных и организация безопасности](./certificates_Netology/certificate-8.pdf)
