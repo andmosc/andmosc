@@ -19,7 +19,7 @@ My skills is:
 
 - [Домашняя работа по курсу Java-разработчик](./netology_homeworks/README.md)
 
-### Учебные проекты:
+### Мои проекты:
 
 - [Конвертер в текстовую графику]()
 - [Сетевой чат](https://github.com/andmosc/network_chat.git)

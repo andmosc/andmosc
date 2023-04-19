@@ -213,15 +213,51 @@
 
 ### Блок 1. Web
 
-16 [HTTP и современный Web](https://github.com/netology-code/jspr-homeworks/tree/master/01_web)
+16 [HTTP и современный Web](https://github.com/andmosc/javaSpring_1.1_refactoring.git)
 
-17 [Формы и форматы передачи данных](https://github.com/netology-code/jspr-homeworks/tree/master/02_forms)
-
+17 [Формы и форматы передачи данных](https://github.com/andmosc/javaSpring_1.1_HTTP_SERVER/tree/feature/query/src/main/java/ru/andmosc)
 
 ### Блок 2. Java EE, Java Servlets
 
-18 [Servlets Containers](https://github.com/netology-code/jspr-homeworks/tree/master/04_servlets)
+18 [Servlets Containers](https://github.com/andmosc/javaSpring_SERVLET.git)
 
-19 [Dependency Lookup, Dependency Injection, IoC, Spring, Application Context](https://github.com/netology-code/jspr-homeworks/tree/master/05_di)
+19 [Dependency Lookup, Dependency Injection, IoC, Spring, Application Context](https://github.com/andmosc/javaSpring_SERVLET.git)
 
-20 [Spring Web MVC](https://github.com/netology-code/jspr-homeworks/tree/master/06_mvc)
+20 [Spring Web MVC](https://github.com/andmosc/javaSpring_MVC.git)
+
+# Домашние задания по курсу «Spring Boot, deployment и инфраструктура»
+
+### Блок 1. Spring Boot
+
+21 [Spring Boot: назначение, внутреннее устройство](https://github.com/andmosc/SpringBoot_REST.git)
+
+22 [REST](https://github.com/andmosc/SpringBoot_REST.git)
+
+### Блок 2. Linux
+23 [Разворачивание Spring Boot приложений (nginx, systemd, firewall, journalctl)](https://github.com/andmosc/SpringBoot_REST/tree/master/src/main/resources/nginx)
+
+### Блок 3. Docker
+24 [Основы работы: Docker, Docker Compose, упаковка приложений](https://github.com/andmosc/SpringBoot_Condinional/blob/test/src/test/java/ru/andmosc/conditionalapp/ConditionalAppApplicationTests.java)
+
+25 [TestContainers, Kubernetes, облака](https://github.com/andmosc/SpringBoot_Condinional/blob/test/src/test/java/ru/andmosc/conditionalapp/ConditionalAppApplicationTests.java)
+
+# Домашние задания по курсу «Хранение данных и организация безопасности»
+
+### Блок 1. Реляционные СУБД и JDBC
+
+26 [Основы работы: DDL, DML](https://github.com/andmosc/sql_sqripts/tree/join_script)
+
+27 [Вложенные подзапросы, JOIN'ы, агрегирующие запросы](https://github.com/andmosc/jdbc_API.git) 
+
+28 [JDBC API, JdbcTemplate, NamedParametersJdbcTemplate](https://github.com/andmosc/jdbc_API.git)
+
+### Блок 2. JPA
+29 [ORM, Hibernate (минусы и плюсы), Entity Lifecycle, Embedding, Relationships](https://github.com/andmosc/netology_hibernate.git)
+
+30 [Spring JPA Repositories, JPQL]()
+
+### Блок 3. Spring Security
+31 [Безопасность в веб-приложениях, Spring Security]()
+
+32 [Method security. OAuth2]()
+
