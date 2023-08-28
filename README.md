@@ -7,7 +7,7 @@ My skills is:
 * базовые знания HTML, CSS, JavaScript;
 * Maven, Gradle, Apache Tomcat, nginx, Git, docker;
 * JUnit, Hamcrest, Mockito;
-* Spring (MVC, Boot).
+* Spring (MVC, Boot, Security).
 
 **Please note: links updating in progress, some links may be not working.**
 
