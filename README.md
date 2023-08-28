@@ -1,12 +1,12 @@
 ### Java - разработчик.
 
 My skills is:
-* ООП, UML , XML, JSON, паттерны проектирования;
+* ООП, UML , XML, JSON, SOLID, паттерны проектирования;
 * Java Core;
 * Hibernate, MySQL, PostgreSQL, Liquibase, Redis;
 * базовые знания HTML, CSS, JavaScript;
 * Maven, Gradle, Apache Tomcat, nginx, Git, docker;
-* JUnit, Hamcrest, Mockito;
+* JUnit, Hamcrest, Mockito, AssertJ;
 * Spring (MVC, Boot, Security).
 
 ### Проходил обучение:
