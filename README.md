@@ -1,9 +1,9 @@
-### Computer science student.
+### Java - разработчик.
 
 My skills is:
 * ООП, UML , XML, JSON, паттерны проектирования;
 * Java Core;
-* Hibernate, MySQL, PostgreSQL, Liquibase ;
+* Hibernate, MySQL, PostgreSQL, Liquibase, Redis;
 * базовые знания HTML, CSS, JavaScript;
 * Maven, Gradle, Apache Tomcat, nginx, Git, docker;
 * JUnit, Hamcrest, Mockito;
