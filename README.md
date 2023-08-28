@@ -24,6 +24,7 @@ My skills is:
 - [Конвертер в текстовую графику]()
 - [Сетевой чат](https://github.com/andmosc/network_chat.git)
 - [Сервис перевода денег](https://github.com/andmosc/TransferMoneyServices)
+- [Облочное хранилище для файлов](https://github.com/andmosc/Cloud-Service)
 
 ### Сертификаты
 
@@ -36,3 +37,5 @@ My skills is:
 - [Web, Spring & Spring MVC](./certificates_Netology/certificate-6.pdf)
 - [Spring Boot, deployment и инфраструктура](./certificates_Netology/certificate-7.pdf)
 - [Хранение данных и организация безопасности](./certificates_Netology/certificate-8.pdf)
+---
+- [Java-разработчик с нуля](./certificates_Netology/certificate-9.pdf)
