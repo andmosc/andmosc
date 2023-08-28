@@ -9,19 +9,12 @@ My skills is:
 * JUnit, Hamcrest, Mockito;
 * Spring (MVC, Boot, Security).
 
-**Please note: links updating in progress, some links may be not working.**
-
 ### Проходил обучение:
 
-- [Netology / Основы разработки на Java]()
-
-### В настоящее время прохожу обучение в [Нетология](https://netology.ru/)
-
-- [Домашняя работа по курсу Java-разработчик](./netology_homeworks/README.md)
+- [Netology / Основы разработки на Java](https://github.com/andmosc/andmosc/blob/main/netology_homeworks/README.md)
 
 ### Мои проекты:
 
-- [Конвертер в текстовую графику]()
 - [Сетевой чат](https://github.com/andmosc/network_chat.git)
 - [Сервис перевода денег](https://github.com/andmosc/TransferMoneyServices)
 - [Облочное хранилище для файлов](https://github.com/andmosc/Cloud-Service)
